@@ -17,3 +17,13 @@ Cask Trust is built on the same principle. Just as the Bottled-in-Bond Act repla
 Because in bourbon and in identity, the problem has always been the same: how do you know you can trust what's in front of you?
 
 The answer, in 1897 and today, starts with the cask.
+
+| Package | Latest | LTS |
+| --- | --- | --- |
+| [CaskCA](https://github.com/CaskTrust/CaskCA) | 0.1.0 | 0.1.0 |
+| CaskClient | N/A | N/A |
+| CaskDNS | N/A | N/A |
+| CaskManager | N/A | N/A |
+| CaskMDM | N/A | N/A |
+| CaskNAS | N/A | N/A |
+| CaskSSO | N/A | N/A |
